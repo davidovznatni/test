@@ -4036,3 +4036,1349 @@ Cost settings
     Roaming                : No
     Cost Source            : Default
 
+Profile "i-Fi:" is not found on the system.
+Profile "read only)" is not found on the system.
+Profile "----------" is not found on the system.
+Profile "key=clear" is not found on the system.
+Profile "key=clear" is not found on the system.
+Profile "key=clear" is not found on the system.
+
+Profile Apart Hotel CENTAR SARAJEVO on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Apart Hotel CENTAR SARAJEVO
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Apart Hotel CENTAR SARAJEVO"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile DDC Guest on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : DDC Guest
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "DDC Guest"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile SBG-Guest on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : SBG-Guest
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "SBG-Guest"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : dobrodosli
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+Profile "Nikola's iPhone" is not found on the system.
+
+Profile EY Office Wi-Fi - Preferred on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Office Wi-Fi - Preferred
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "WiFiFirst"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: Smart Card or other certificate
+    802.1X auth credential : Machine credential
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Yettel on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Yettel
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Yettel"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA3-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA3-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : Pass@word22!#
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile N's Home on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : N's Home
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "N's Home"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : Pitajjanu2023
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile EY Visitors on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Visitors
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "EY Visitors"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA3-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA3-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : 01010101
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile ni05ja02da10 on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : ni05ja02da10
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "ni05ja02da10"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : NI05ja02da10
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile It Burns When IP on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : It Burns When IP
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect even if this network is not broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "It Burns When IP"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : ninibog420
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile OpalHomeGuest on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : OpalHomeGuest
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "OpalHomeGuest"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : opalhome_guest
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile API_Guest on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : API_Guest
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "API_Guest"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : Api12345
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile EY Office Wi-Fi - Secondary on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Office Wi-Fi - Secondary
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "WiFiFirst"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: EAP-TTLS
+    802.1X auth credential : Machine or user credential
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile ColorsINNSarajevo on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : ColorsINNSarajevo
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "ColorsINNSarajevo"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : colorsinn2014
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile ASABanka on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : ASABanka
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "ASABanka"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : ASAbanka2022#
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+Profile "Gordana's iPhone" is not found on the system.
+
+Profile Kafeterija on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Kafeterija
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Kafeterija"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile LOLA on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : LOLA
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "LOLA"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : restoranlola
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Mona Plaza-Guest on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Mona Plaza-Guest
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Mona Plaza-Guest"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : hotelplaza2019
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile 65E62E on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : 65E62E
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "65E62E"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : x20vcm8a9t
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Galaxy A52s 5G1F7D on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Galaxy A52s 5G1F7D
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Galaxy A52s 5G1F7D"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : szvw8811
+
+Cost settings 
+------------- 
+    Cost                   : Fixed
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Operator
+
+
+Profile RBB_wifi_1 on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : RBB_wifi_1
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "RBB_wifi_1"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : RBwiUp2022+
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Bogdan Cvetkovic on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Bogdan Cvetkovic
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Bogdan Cvetkovic"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : slusalice
+
+Cost settings 
+------------- 
+    Cost                   : Fixed
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Operator
+
+
+Profile Festival on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Festival
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Festival"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : 00001111
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile opsesija on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : opsesija
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "opsesija"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : opsednutsamja
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Galaxy S2256CE on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Galaxy S2256CE
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Galaxy S2256CE"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : DjekicWB
+
+Cost settings 
+------------- 
+    Cost                   : Fixed
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Operator
+
+
+Profile dcorporate on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : dcorporate
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "dcorporate"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : mLe5TBUui3r3V@TY
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile dpublic on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : dpublic
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "dpublic"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+    Key Content            : D3vt3ch2019!
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile EY Office Wi-Fi - Preferred (C) on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Office Wi-Fi - Preferred (C)
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Qkpwm948"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: Smart Card or other certificate
+    802.1X auth credential : Machine credential
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile EY Office Wi-Fi - Preferred (A) on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Office Wi-Fi - Preferred (A)
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "flew90e8"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA-Enterprise
+    Cipher                 : TKIP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: Smart Card or other certificate
+    802.1X auth credential : Machine credential
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile EY Office Wi-Fi - Secondary (C) on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Office Wi-Fi - Secondary (C)
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Qkpwm948"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: EAP-TTLS
+    802.1X auth credential : Machine or user credential
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile EY Office Wi-Fi - Secondary (A) on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : EY Office Wi-Fi - Secondary (A)
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "flew90e8"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA-Enterprise
+    Cipher                 : TKIP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: EAP-TTLS
+    802.1X auth credential : Machine or user credential
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Global EY Small Office/Client Site on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Global EY Small Office/Client Site
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "B10m7c51"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA-Personal
+    Cipher                 : TKIP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
